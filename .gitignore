@@ -1,0 +1,4 @@
+node_modules/
+CICDcs/node_modules/
+build/
+.env
